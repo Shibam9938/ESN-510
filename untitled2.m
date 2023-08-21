@@ -1,0 +1,10 @@
+a=9
+b=7
+a>b
+b>a
+a<b
+b<a
+a==b
+a~=b
+a>=b
+a<=b

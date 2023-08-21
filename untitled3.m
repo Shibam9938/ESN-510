@@ -1,0 +1,6 @@
+r=rand(5)
+d=rand(2,3)
+a=-4+(4+4)*rand(5,3)
+x=randi(6,5,2)
+g=randi(9,5,3)
+s=randi([3,8],3,5)
