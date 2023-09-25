@@ -25,7 +25,7 @@ if iex ==1
     
     % Discretize X for summation
     xmin = 0; xmax = 4;
-    Nsamples = 6; % Number of points for dividing x (N-1 trapezoids)
+    Nsamples = ; % Number of points for dividing x (N-1 trapezoids)
     x_sum = linspace(xmin,xmax,Nsamples);
     h = x_sum(2) - x_sum(1);
     
